@@ -1,0 +1,7 @@
+name: pulumi-pubsub-component
+runtime: go
+description: A minimal Go Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
